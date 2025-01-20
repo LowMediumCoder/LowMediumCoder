@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 About Me
+I am an aspiring web developer focused on building robust, user-centered websites and applications. 
+My current goal is to master the core technologies of web development and contribute meaningfully to the developer community.
 
-<!--
-**LowMediumCoder/LowMediumCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Learning Journey
+Currently diving into:
+Frontend: HTML, CSS, JavaScript, React, TypeScript, SaSS
+CSS library: Bootstrap
+Backend: Node.js, MariaDB, MySQL
+Laragon used for localhost
+Tools: Git, VS Code
 
-Here are some ideas to get you started:
+🔭 What I'm Working On
+Building small projects to solidify my skills.
+Experimenting with responsive designs and modern frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Portfolio (coming soon!)
+📧 Email: 
+💼 LinkedIn:
