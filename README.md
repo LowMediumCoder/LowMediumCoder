@@ -17,3 +17,5 @@ Experimenting with responsive designs and modern frameworks. <br />
 🌐 Portfolio (coming soon!) <br />
 📧 Email: <br />
 💼 LinkedIn: <br />
+💼 Indeed: <br />
+
