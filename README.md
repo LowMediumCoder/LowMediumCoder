@@ -15,7 +15,7 @@ Building small projects to solidify my skills. <br />
 Experimenting with responsive designs and modern frameworks. <br />
 
 🌐 Portfolio (coming soon!) <br />
-📧 Email: <br />
+📧 Email: augustlanguepin@gmail.com <br />
 💼 LinkedIn: <br />
 💼 Indeed: <br />
 
