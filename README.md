@@ -4,11 +4,11 @@ My current goal is to master the core technologies of web development and contri
 
 🎓 Learning Journey <br />
 Currently diving into: <br />
-Frontend: HTML, CSS, JavaScript, React, TypeScript, SaSS <br />
+Frontend: HTML, CSS, JavaScript, TypeScript, SCSS <br />
 CSS library: Bootstrap, Tailwind <br />
-Backend: Node.js, MariaDB, MySQL <br />
-Laragon (localhost) <br />
-Tools: Git, VS Code <br />
+Backend: Symfony PHP </br>
+Database: MariaDB, MySQL <br />
+Tools: GitHub, Vercel, VS Code, Laragon <br />
 
 🔭 What I'm Working On <br />
 Building small projects to solidify my skills. <br />
