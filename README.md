@@ -16,6 +16,5 @@ Experimenting with responsive designs and modern frameworks. <br />
 
 🌐 Portfolio (coming soon!) <br />
 📧 Email: augustlanguepin@gmail.com <br />
-💼 LinkedIn: <br />
-💼 Indeed: <br />
+💼 LinkedIn: https://www.linkedin.com/in/august-languepin/ <br />
 
